@@ -1,7 +1,7 @@
 {
-  "active": true,
+  "active": false,
   "kill_message": "This Beta version has been permanently disabled. Please download the official release.",
   "latest_version": "v1.2.0-beta",
   "update_message": "A new version is available! Please update now.",
-  "download_url": ""
+  "download_url": "https://lunexstream.vercel.app/"
 }
